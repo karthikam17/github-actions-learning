@@ -8,7 +8,7 @@ jobs:
       - name: Welcome to Github
         run: echo "Great leaning ahead Karthika"
   Second_job:
-    runs-on: Ubuntu
+    runs-on: ubuntu-latest
     steps:
       - name: Githib Actions Trial
         run: echo "Have a great year"
